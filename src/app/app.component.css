@@ -1,0 +1,76 @@
+/* section {
+    padding: 0;
+    margin: 0;
+} */
+
+.scrollarea {
+    min-height: 350px;
+    max-height: 375px;
+    overflow-y: scroll;
+    padding-bottom: 20px;
+    border-left: 1px solid lightgrey;
+    width: 95%;
+    margin-left: 18px;
+    margin-right: 20px;
+    border-top: 1px solid lightgray;
+    border-bottom: 2px solid lightgray;
+    position: relative;
+    bottom: 10px;
+    top: 1px;
+}
+
+.container {
+    margin-top: 20px;
+    max-width: 700px;
+    border: 2px solid lightgray;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.pauls-chatbox-style {
+    color: blue;
+    padding-top: 8px;
+    padding-left: 18px;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.version-style {
+    font-size: 10px;
+    float: right;
+    position: relative;
+    top: 8px;
+    right: 20px;
+}
+
+.p-3 {
+    /* padding: 1rem!important; */
+    padding: 0;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #dee2e6!important;
+}
+
+.submit-form-style {
+    position: relative;
+    top: 10px;
+}
+
+.username-style {
+    width: 100%;
+    margin-left: 6px;
+    padding-right: 24px;
+    position: relative;
+    right: 6px
+}
+
+.submit-form-style {
+    width: 99%;
+    margin-left: 28px;
+    padding-right: 28px;
+    position: relative;
+    right: 10px;
+}
